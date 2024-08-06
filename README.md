@@ -48,6 +48,8 @@ python ebook_mobile.py
 
 ![mobile](https://github.com/user-attachments/assets/56f4b604-ba25-446b-ad32-6598d5c72426)
 
+* Saved as  ' /sdcard/Downloads/book.xyz '
+
 
 
 
